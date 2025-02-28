@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurhusien1970
 - 👀 I’m interested in Bioinformatics, data science, Python, R, Machine learning, Evolution of frogs and their taxonomy and Africa.
-- 🌱 I’m currently learning molecular phylogenetic.
+- 🌱 I’m currently learning molecular phylogenetics.
 - 💞️ I’m looking to collaborate on developing tools for evolutionary or phylogenetic analysis using python or any language.
 - 📫 How to reach me omaridris5315@gmail.com
 
